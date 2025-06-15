@@ -117,7 +117,6 @@
         .form-check-label {
             color: #333;
             font-weight: 500;
-            font-size: 14px;
         }
 
         .btn {
